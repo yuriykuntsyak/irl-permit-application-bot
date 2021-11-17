@@ -8,6 +8,8 @@ Bot for tracking current application processing dates for Employment Permits and
     - [ ] Requests for Support Letters for a Stamp 4
 - [ ] REST API interface
 - [ ] Web interface
+- [ ] Trends over past Y/M/W
+- [ ] Predicted application processing date
 - [ ] Notification delivery
     - [ ] Telegram
     - [ ] Email
